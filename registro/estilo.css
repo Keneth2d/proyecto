@@ -1,0 +1,59 @@
+* {
+	
+	padding: 0;
+	margin: 0;
+	font-family:Cambria;
+	text-align: center;
+	font-size: 70px;
+}
+form {
+	padding: 20px 20px;
+	background-color: #74f143;
+	margin: calc(25% + 100px);
+	margin-top: 70px;
+	padding-top: 28px;
+	margin-bottom: 30px
+	
+}
+
+.h1 {
+	text-align: center;
+	padding: 12px;
+	color: rgb(177, 75, 75);
+	font-size:70px;
+}
+
+input {
+	width: calc(100% - 20px);
+	padding: 9px;
+	margin: auto;
+	margin-top: 12px;
+	font-size: 70px
+}
+
+input[type='submit']{
+	background-color: #48e;
+	color: rgb(181, 211, 72);
+	width: calc(80% - 20px);
+	margin: 0 10%;
+	margin-top: 22px;
+	border: none;
+}
+
+.ok {
+	text-align: center;
+	width: 100%;
+	padding: 12px;
+	background-color: rgb(182, 172, 32);
+	color: #fff
+}
+.bad {
+	text-align: center;
+	width: 100%;
+	padding: 12px;
+	background-color: #a22;
+	color: #fff
+}
+body {
+	background-image:url(https://www.caracteristicas.co/wp-content/uploads/2019/02/plantas-2-e1586222347636.jpg);
+  }

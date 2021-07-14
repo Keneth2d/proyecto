@@ -1,0 +1,35 @@
+
+
+form{
+font-family:Cambria ;
+color: black;
+text-align: center;
+font-size:50px;
+padding: 20px 20px;
+margin: calc(25% + 100px);
+margin-top: 70px;
+padding-top: 30px;
+margin-bottom: 30px
+	
+}
+.h1{
+font-family:Cambria;
+color: black;
+}
+
+input[type='submit']{
+	background-color: #48e;
+	color: rgb(181, 211, 72);
+	width: calc(80% - 20px);
+	margin: 0 10%;
+	margin-top: 22px;
+	border: none;
+}
+input {
+	width: calc(100% - 20px);
+	padding: 9px;
+	margin: auto;
+	margin-top: 12px;
+	font-size: 70px
+}
+

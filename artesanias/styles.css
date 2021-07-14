@@ -1,0 +1,51 @@
+
+
+.nav1{
+text-align: center;
+font-family:Cambria;
+color:#00ff00;
+text-shadow: rgb(76, 116, 16) 3px;
+}
+.nav1 :hover
+{
+border-radius: 5px;
+box-shadow: yellow 0 8px 16px;
+}
+.nav
+{
+background-color: rgb(255, 255, 255);
+color: #2b2929;
+font-size:30px;
+font-family:Cambria;
+}
+.contenido
+{
+background-color: rgb(76, 116, 16);
+color: #fffdfd;
+font-size:30px;
+font-family:Cambria;
+}
+
+
+.contenido-pro
+{
+background-color: rgb(76, 116, 16);
+color: #fffdfd;
+font-size:30px;
+font-family:Cambria;
+}
+.contenido-pro:hover
+{
+box-shadow:yellow 0 8px 16px 0 ;
+transform: scale(1.01);
+}
+
+
+
+
+
+.final{
+text-align: center;
+color:rgb(22, 17, 17);
+text-shadow: rgb(82, 74, 74);
+}
